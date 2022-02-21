@@ -34,6 +34,9 @@ Write the following auth middlewares inside `api/auth/auth-middleware.js`:
 
 Authentication will be tracked using sessions and cookies. See `api/server.js` for more instructions.
 
+- [x] `Import Express-session`
+- [x] `Setup Express-session`
+
 Write the following endpoints. The first one belongs inside `api/users/users-router.js` and the rest inside `api/auth/auth-router.js`:
 
 - [ ] `[GET] /api/users`
